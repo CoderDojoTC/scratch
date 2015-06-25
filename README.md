@@ -8,4 +8,8 @@ Check out the [mentor-resource repository](https://github.com/CoderDojoTC/mentor
 
 Once you are at CoderDojoTC, there are laminated [Scratch cards](http://scratch.mit.edu/help/cards/) in one of the plastic bins -- find them and make them available to the students.
 
+### Create an Account Handouts
+
+We've created a [handout](handouts/scratch-make-an-account.docx) to help students create and remember their account details.
+
 Thank you for mentoring at CoderDojoTC!
