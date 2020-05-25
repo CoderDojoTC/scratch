@@ -13,3 +13,6 @@ Once you are at CoderDojoTC, there are laminated [Scratch cards](http://scratch.
 We've created a [handout](handouts/scratch-make-an-account.docx) to help students create and remember their account details.
 
 Thank you for mentoring at CoderDojoTC!
+
+All material uses the Creative Commons non-commercial attribution license:
+https://creativecommons.org/licenses/by-nc/3.0/deed.en_US
