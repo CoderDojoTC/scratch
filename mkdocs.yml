@@ -1,0 +1,42 @@
+site_name: 'CoderDojo TC XX'
+nav:
+  - Menu 1:
+    - Lesson 1: menu-1/lesson-01.md
+    - Lesson 2: menu-1/lesson-02.md
+  - Menu 2:
+    - Lesson 1: menu-2/lesson-01.md
+    - Lesson 2: menu-2/lesson-01.md
+  - Menu 3:
+    - Lesson 1: menu-3/lesson-01.md
+    - Lesson 2: menu-3/lesson-01.md
+    
+  - Contributing:
+    - How to Contribute Examples: contribute.md
+  - Contact:
+    - Contact: contact.md
+
+site_description: 'Resources for teaching XX to CoderDojo Twin Cities students.'
+site_author: 'Dan McCreary'
+repo_name: 'your-name'
+repo_url: 'https://github.com/CoderDojoTC/your-name'
+edit_uri: 'blob/master/docs'
+theme:
+  name: mkdocs
+  palette:
+    primary: 'amber'
+    accent: 'amber'
+  feature:
+    tabs: true
+  custom_dir: 'theme'
+  include_sidebar: true
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: true
+plugins:
+    - search
+markdown_extensions:
+  - codehilite
