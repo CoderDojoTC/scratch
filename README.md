@@ -16,3 +16,6 @@ Thank you for mentoring at CoderDojoTC!
 
 All material uses the Creative Commons non-commercial attribution license:
 https://creativecommons.org/licenses/by-nc/3.0/deed.en_US
+
+We use the CoderDojo style guide here:
+https://company-51033.frontify.com/d/E6KNDhunr9mR/coderdojo-style-guide-1460385526
