@@ -1,12 +1,18 @@
-site_name: 'CoderDojo TC XX'
+site_name: 'CoderDojo TC Scratch'
 nav:
-  - Menu 1:
-    - Lesson 1: menu-1/lesson-01.md
-    - Lesson 2: menu-1/lesson-02.md
-  - Menu 2:
-    - Lesson 1: menu-2/lesson-01.md
-    - Lesson 2: menu-2/lesson-01.md
-  - Menu 3:
+  - Intro:
+    - Getting Started: menu-1/lesson-01.md
+    - Sprite Movement: menu-1/lesson-02.md
+  - Turtle:
+    - Introduction: 01-intro.md
+    - Adding CoderDojo Sprite: turtle/02-add-sprite.md
+    - Adding Pen Extension: turtle/01-pen-extension.md
+    - Drawing a Square: turtle/square.md
+    - Variables: turtle/variable.md
+    - Loops: turtle/loop.md
+    - Conditionals: turtle/conditionals.md
+    - Functions: turtle/functions.md
+  - Advanced:
     - Lesson 1: menu-3/lesson-01.md
     - Lesson 2: menu-3/lesson-01.md
     
@@ -15,13 +21,13 @@ nav:
   - Contact:
     - Contact: contact.md
 
-site_description: 'Resources for teaching XX to CoderDojo Twin Cities students.'
+site_description: 'Resources for teaching Scratch to CoderDojo Twin Cities students.'
 site_author: 'Dan McCreary'
-repo_name: 'your-name'
-repo_url: 'https://github.com/CoderDojoTC/your-name'
+repo_name: 'Scratch'
+repo_url: 'https://github.com/CoderDojoTC/scratch'
 edit_uri: 'blob/master/docs'
 theme:
-  name: mkdocs
+  name: material
   palette:
     primary: 'amber'
     accent: 'amber'
