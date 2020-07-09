@@ -22,4 +22,19 @@ Next, drag the distance variable into the Move Foward Block
 ## Link to Working Program
 Here is a link to a working program on the MIT Scratch web site:
 
-[Cody the Turtle Draws a Square](https://scratch.mit.edu/projects/400053670/)
+[Using a Single Variable to Change the Distance](https://scratch.mit.edu/projects/404553981)
+
+## Experiments
+
+1. Can you create another variable for the right turn angle?
+2. What happens if you change the angle from 90 to be 60 or 120?
+3. Can you create a variable for the wait time?
+4. What happens if you change the wait time to be .1?
+
+## Solution
+
+![Blocks for drawing a square with three variables](../img/square-with-three-variables-blocks.png)
+
+![Square drawing with three variables](../img/square-with-three-variables-blocks.png)
+
+[Link to Scratch Program](https://scratch.mit.edu/projects/410593250/)

@@ -6,6 +6,8 @@ nav:
     - Summary of Labs: labs.md
     - Intro Blocks: intro/02-list-of-blocks-used-in-intro.md
     - Drawing A Square: intro/03-first-square.md
+    - Variables: intro/04-variables-square.md
+    - Loops: intro/05-loops.md
   - Contact: contact.md
 
 site_description: 'Resources for teaching Scratch to CoderDojo Twin Cities students.'
