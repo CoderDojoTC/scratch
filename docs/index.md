@@ -1,5 +1,5 @@
 # CoderDojo Twin Cities Scratch Resources
-This GitHub repository is for sharing teaching resources to teach Scratch. This includes hints on getting both your students and mentors up to speed on Scracth. The site includes lesson plans and sample programs designed to be consitent with both the Python and Robots groups.
+This GitHub repository is for sharing teaching resources to teach Scratch. This includes hints on getting both your students and mentors up to speed on Scratch. The site includes lesson plans and sample programs designed to be consitent with both the Python and Robots groups.
 
 If you hear of any good tools, please let us know.
 
