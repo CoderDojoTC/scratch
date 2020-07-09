@@ -1,25 +1,12 @@
 site_name: 'CoderDojo TC Scratch'
 nav:
+  - Shared Mentor Resources: https://coderdojotc.github.io/CoderDojoTC/
   - Intro:
-    - Getting Started: menu-1/lesson-01.md
-    - Sprite Movement: menu-1/lesson-02.md
-  - Turtle:
-    - Introduction: 01-intro.md
-    - Adding CoderDojo Sprite: turtle/02-add-sprite.md
-    - Adding Pen Extension: turtle/01-pen-extension.md
-    - Drawing a Square: turtle/square.md
-    - Variables: turtle/variable.md
-    - Loops: turtle/loop.md
-    - Conditionals: turtle/conditionals.md
-    - Functions: turtle/functions.md
-  - Advanced:
-    - Lesson 1: menu-3/lesson-01.md
-    - Lesson 2: menu-3/lesson-01.md
-    
-  - Contributing:
-    - How to Contribute Examples: contribute.md
-  - Contact:
-    - Contact: contact.md
+    - Getting Started: intro/01-getting-started.md
+    - Summary of Labs: labs.md
+    - Intro Blocks: intro/02-list-of-blocks-used-in-intro.md
+    - Drawing A Square: intro/03-first-square.md
+  - Contact: contact.md
 
 site_description: 'Resources for teaching Scratch to CoderDojo Twin Cities students.'
 site_author: 'Dan McCreary'

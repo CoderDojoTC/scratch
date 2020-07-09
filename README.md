@@ -1,5 +1,7 @@
 ## Scratch Resources
 
+The documentation for this site is [here](http://coderdojotc.github.io/scratch/).
+
 This repository contains resources for the Scratch code group at CoderDojo Twin Cities.
 
 New mentors, please check out these 6 short [Scratch Basics for New Mentors](https://github.com/CoderDojoTC/scratch/wiki/New-Scratch-Mentors-Start-Here) before you come to mentor. Experienced mentors -- we'd love your feedback and favorite tips.  Please send to hello@CoderDojoTC.org
