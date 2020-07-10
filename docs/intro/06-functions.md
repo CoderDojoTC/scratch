@@ -11,10 +11,12 @@ Note that you now have a new square block
 
 Take a look at our new block function.  Note that we made
 a few changes so that the blocks were a bit smaller.
-We changed the distance variable to be
+We changed the distance variable to be be only 50 so that we could
+add more blocks in the drawing area.
 ![See the New Block](../img/make-a-block-blocks.png)
 
-Now lets draw three different squares at different locations on the scree
+Now lets draw three different squares at different locations on the screen
+
 ![Draw Three Squares](../img/make-a-block-three-calls.png)
 
 The drawing should look like this:

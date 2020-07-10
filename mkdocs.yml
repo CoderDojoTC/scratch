@@ -4,7 +4,7 @@ nav:
   - Intro:
     - Getting Started: intro/01-getting-started.md
     - Summary of Labs: labs.md
-    - Intro Blocks: intro/02-list-of-blocks-used-in-intro.md
+    - Adding the Pen Extension: intro/02-list-of-blocks-used-in-intro.md
     - Drawing A Square: intro/03-first-square.md
     - Variables: intro/04-variables-square.md
     - Loops: intro/05-loops.md
