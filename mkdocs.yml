@@ -10,6 +10,7 @@ nav:
     - Loops: intro/05-loops.md
     - Functions: intro/06-functions.md
     - Functions With Parameters: intro/07-functions-with-parameters.md
+  - Presentations: presentations.md
   - Contact: contact.md
 
 site_description: 'Resources for teaching Scratch to CoderDojo Twin Cities students.'
